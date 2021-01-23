@@ -1,0 +1,13 @@
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.exe
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.deps.json
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.json
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.runtimeconfig.dev.json
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.dll
+F:\C#Practice\Addition\bin\Debug\netcoreapp3.1\Addition.pdb
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.csprojAssemblyReference.cache
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfoInputs.cache
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.AssemblyInfo.cs
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.csproj.CoreCompileInputs.cache
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.dll
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.pdb
+F:\C#Practice\Addition\obj\Debug\netcoreapp3.1\Addition.genruntimeconfig.cache
